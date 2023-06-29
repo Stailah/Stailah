@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Stailah
-- 👀 I’m interested in web development, WordPress, Elementor and tech.
+- 👋 Hi, I’m Joan.
+- 👀 I’m interested in Web Development, WordPress, Elementor, Engineering and tech.
 - 🌱 I’m currently working as a Webmaster. I love coding, and I want to work as a Front-end, Back-end or FullStack web developer.
 
 <!---
